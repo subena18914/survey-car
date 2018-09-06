@@ -1,0 +1,17 @@
+@media (min-width: 768) and (max-width: 991px){ 
+	.header-left img{
+	    margin-right: 10px;
+	}
+	
+}
+@media (min-width: 320px) and (max-width: 571px){ 
+	.header-left h4,
+	.header-right p,
+	.header-right select{
+	     margin: 7px 0px;
+	}
+	.header-right{
+	padding: 30px 0px;
+	}
+}
+
